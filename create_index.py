@@ -1,3 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    create_index.py                                    :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: ccottet <ccottet@student.42.fr>            +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/01/30 16:34:20 by ccottet           #+#    #+#              #
+#    Updated: 2025/01/30 16:39:23 by ccottet          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+
 import json
 import os
 import re
@@ -63,7 +77,11 @@ def tokenize(text):
 
 
 def build_inverted_index_with_positions(field, data):
-    """Builds an inverted index with positions for a given field."""
+    """
+
+    Builds an inverted index with positions for a given field.
+    
+    """
     index = defaultdict(lambda: defaultdict(list))
     for doc in data:
         tokens = tokenize(doc.get(field, ""))
@@ -73,7 +91,11 @@ def build_inverted_index_with_positions(field, data):
 
 
 def build_reviews_index(data):
-    """Creates an index for reviews including total count, average rating, and last rating."""
+    """
+
+    Creates an index for reviews including total count, average rating, and last rating.
+
+    """
     index = {}
     for doc in data:
         reviews = doc.get("product_reviews", [])
@@ -86,7 +108,11 @@ def build_reviews_index(data):
 
 
 def build_feature_index(data, feature_name, feature_key):
-    """Builds an inverted index for a specific feature (e.g., brand, origin)."""
+    """
+    
+    Builds an inverted index for a specific feature (e.g., brand, origin).
+    
+    """
     index = defaultdict(set)
     for doc in data:
         feature_value = doc.get("product_features", {}).get(feature_key, "")
@@ -96,14 +122,19 @@ def build_feature_index(data, feature_name, feature_key):
 
 
 def save_index(index, filename):
-    """Saves an index to a JSON file."""
+    """
+    Saves an index to a JSON file.
+    """
     os.makedirs(INDEX_FOLDER, exist_ok=True)
     with open(os.path.join(INDEX_FOLDER, filename), "w", encoding="utf-8") as file:
         json.dump(index, file, indent=4, ensure_ascii=False)
 
 
-def run_pipeline():
-    """Executes the full pipeline."""
+def run():
+    """
+    Executes the full pipeline.
+    
+    """
     data = load_data(INPUT_FILE)
     if not data:
         print("No data loaded, stopping pipeline.")
@@ -132,4 +163,4 @@ def run_pipeline():
 
 
 if __name__ == "__main__":
-    run_pipeline()
+    run()

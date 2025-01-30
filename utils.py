@@ -1,3 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    utils.py                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: ccottet <ccottet@student.42.fr>            +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/01/30 16:34:10 by ccottet           #+#    #+#              #
+#    Updated: 2025/01/30 16:34:11 by ccottet          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+
 import json
 import time
 import urllib.request
@@ -84,3 +98,20 @@ def extract_page_data(url):
     except requests.exceptions.RequestException as e:
         print(f"Erreur lors de l'extraction des données de {url}: {e}")
         return None
+    
+
+def load_data(file_path):
+    """Charge les données depuis un fichier JSONL."""
+    data = []
+    with open(file_path, "r", encoding="utf-8") as file:
+        for line in file:
+            data.append(json.loads(line))
+    return data
+
+
+
+def load_index(index_path):
+    """Charge un index depuis un fichier JSON."""
+    with open(index_path, "r", encoding="utf-8") as file:
+        return json.load(file)
+

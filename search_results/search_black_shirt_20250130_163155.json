@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "query": "black shirt",
+    "search_type": "any",
+    "timestamp": "2025-01-30T16:31:55.725381",
+    "total_documents": 156,
+    "filtered_documents": 23
+  },
+  "results": [
+    {
+      "title": "Women's High Heel Sandals",
+      "url": "https://web-scraping.dev/product/8",
+      "description": "Step out in style with our women's high heel sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. Choose from black, red, nude, or silver to complement your wardrobe",
+      "scores": {
+        "bm25_score": 1.1335080304666827,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6615080304666827
+      },
+      "score": 1.662
+    },
+    {
+      "title": "Women's High Heel Sandals - Blue 9",
+      "url": "https://web-scraping.dev/product/20?variant=blue-9",
+      "description": "Step out in style with our women's high heel sandals. Choose from black, red, nude, or silver to complement your wardrobe. These sandals feature a strappy design that adds a touch of elegance to any outfit",
+      "scores": {
+        "bm25_score": 1.1307411272190016,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6587411272190016
+      },
+      "score": 1.659
+    },
+    {
+      "title": "Women's High Heel Sandals - Beige 6",
+      "url": "https://web-scraping.dev/product/8?variant=beige-6",
+      "description": "Choose from black, red, nude, or silver to complement your wardrobe. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Step out in style with our women's high heel sandals",
+      "scores": {
+        "bm25_score": 1.114419282559866,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.642419282559866
+      },
+      "score": 1.642
+    },
+    {
+      "title": "Women's High Heel Sandals - Beige 7",
+      "url": "https://web-scraping.dev/product/8?variant=beige-7",
+      "description": "Step out in style with our women's high heel sandals. Choose from black, red, nude, or silver to complement your wardrobe. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit",
+      "scores": {
+        "bm25_score": 1.114419282559866,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.642419282559866
+      },
+      "score": 1.642
+    },
+    {
+      "title": "Women's High Heel Sandals - Beige 8",
+      "url": "https://web-scraping.dev/product/20?variant=beige-8",
+      "description": "Choose from black, red, nude, or silver to complement your wardrobe. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Step out in style with our women's high heel sandals",
+      "scores": {
+        "bm25_score": 1.114419282559866,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.642419282559866
+      },
+      "score": 1.642
+    },
+    {
+      "title": "Women's High Heel Sandals - Beige 6",
+      "url": "https://web-scraping.dev/product/20?variant=beige-6",
+      "description": "The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Step out in style with our women's high heel sandals. Choose from black, red, nude, or silver to complement your wardrobe",
+      "scores": {
+        "bm25_score": 1.114419282559866,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.642419282559866
+      },
+      "score": 1.642
+    },
+    {
+      "title": "Women's High Heel Sandals",
+      "url": "https://web-scraping.dev/product/20",
+      "description": "The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. These sandals feature a strappy design that adds a touch of elegance to any outfit. Choose from black, red, nude, or silver to complement your wardrobe",
+      "scores": {
+        "bm25_score": 1.1064337940701854,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6344337940701854
+      },
+      "score": 1.634
+    },
+    {
+      "title": "Women's High Heel Sandals - Beige 8",
+      "url": "https://web-scraping.dev/product/8?variant=beige-8",
+      "description": "These sandals feature a strappy design that adds a touch of elegance to any outfit. Choose from black, red, nude, or silver to complement your wardrobe. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit",
+      "scores": {
+        "bm25_score": 1.1037973354663644,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6317973354663644
+      },
+      "score": 1.632
+    },
+    {
+      "title": "Women's High Heel Sandals - Beige 7",
+      "url": "https://web-scraping.dev/product/20?variant=beige-7",
+      "description": "These sandals feature a strappy design that adds a touch of elegance to any outfit. Choose from black, red, nude, or silver to complement your wardrobe. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit",
+      "scores": {
+        "bm25_score": 1.1037973354663644,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6317973354663644
+      },
+      "score": 1.632
+    },
+    {
+      "title": "Women's High Heel Sandals - Blue 9",
+      "url": "https://web-scraping.dev/product/8?variant=blue-9",
+      "description": "These sandals feature a strappy design that adds a touch of elegance to any outfit. Choose from black, red, nude, or silver to complement your wardrobe. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit",
+      "scores": {
+        "bm25_score": 1.1037973354663644,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6317973354663644
+      },
+      "score": 1.632
+    },
+    {
+      "title": "Cat-Ear Beanie - Pink small",
+      "url": "https://web-scraping.dev/product/12?variant=pink-small",
+      "description": "Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Add a touch of whimsy to your winter wardrobe with our cat ear beanie. Stay warm, look cute, and let your playful side shine with our cat ear beanie. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks",
+      "scores": {
+        "bm25_score": 1.0370752577254871,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.5650752577254872
+      },
+      "score": 1.565
+    },
+    {
+      "title": "Cat-Ear Beanie",
+      "url": "https://web-scraping.dev/product/12",
+      "description": "Add a touch of whimsy to your winter wardrobe with our cat ear beanie. Stay warm, look cute, and let your playful side shine with our cat ear beanie. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike",
+      "scores": {
+        "bm25_score": 1.0210733617576435,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.5490733617576435
+      },
+      "score": 1.549
+    },
+    {
+      "title": "Cat-Ear Beanie - Darkgrey medium",
+      "url": "https://web-scraping.dev/product/24?variant=darkgrey-medium",
+      "description": "Add a touch of whimsy to your winter wardrobe with our cat ear beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Stay warm, look cute, and let your playful side shine with our cat ear beanie. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit",
+      "scores": {
+        "bm25_score": 1.0165916937470028,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.5445916937470028
+      },
+      "score": 1.545
+    },
+    {
+      "title": "Cat-Ear Beanie - Sand small",
+      "url": "https://web-scraping.dev/product/12?variant=sand-small",
+      "description": "Stay warm, look cute, and let your playful side shine with our cat ear beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Add a touch of whimsy to your winter wardrobe with our cat ear beanie",
+      "scores": {
+        "bm25_score": 1.0165916937470028,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.5445916937470028
+      },
+      "score": 1.545
+    },
+    {
+      "title": "Cat-Ear Beanie - Grey medium",
+      "url": "https://web-scraping.dev/product/24?variant=grey-medium",
+      "description": "Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Add a touch of whimsy to your winter wardrobe with our cat ear beanie. Stay warm, look cute, and let your playful side shine with our cat ear beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike",
+      "scores": {
+        "bm25_score": 1.0165916937470028,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.5445916937470028
+      },
+      "score": 1.545
+    },
+    {
+      "title": "Cat-Ear Beanie - Darkgrey small",
+      "url": "https://web-scraping.dev/product/12?variant=darkgrey-small",
+      "description": "Add a touch of whimsy to your winter wardrobe with our cat ear beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Stay warm, look cute, and let your playful side shine with our cat ear beanie",
+      "scores": {
+        "bm25_score": 1.0165916937470028,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.5445916937470028
+      },
+      "score": 1.545
+    },
+    {
+      "title": "Cat-Ear Beanie - Grey small",
+      "url": "https://web-scraping.dev/product/24?variant=grey-small",
+      "description": "Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Add a touch of whimsy to your winter wardrobe with our cat ear beanie. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Stay warm, look cute, and let your playful side shine with our cat ear beanie",
+      "scores": {
+        "bm25_score": 1.0165916937470028,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.5445916937470028
+      },
+      "score": 1.545
+    },
+    {
+      "title": "Cat-Ear Beanie",
+      "url": "https://web-scraping.dev/product/24",
+      "description": "Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks. Add a touch of whimsy to your winter wardrobe with our cat ear beanie",
+      "scores": {
+        "bm25_score": 1.0143655805490166,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.5423655805490166
+      },
+      "score": 1.542
+    },
+    {
+      "title": "Cat-Ear Beanie - Sand medium",
+      "url": "https://web-scraping.dev/product/24?variant=sand-medium",
+      "description": "Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks. Add a touch of whimsy to your winter wardrobe with our cat ear beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike",
+      "scores": {
+        "bm25_score": 1.0099424748198784,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.5379424748198784
+      },
+      "score": 1.538
+    },
+    {
+      "title": "Cat-Ear Beanie - Grey small",
+      "url": "https://web-scraping.dev/product/12?variant=grey-small",
+      "description": "Stay warm, look cute, and let your playful side shine with our cat ear beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks",
+      "scores": {
+        "bm25_score": 1.0077453555853175,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.5357453555853176
+      },
+      "score": 1.536
+    },
+    {
+      "title": "Cat-Ear Beanie - Sand small",
+      "url": "https://web-scraping.dev/product/24?variant=sand-small",
+      "description": "Stay warm, look cute, and let your playful side shine with our cat ear beanie. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks",
+      "scores": {
+        "bm25_score": 1.0077453555853175,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.5357453555853176
+      },
+      "score": 1.536
+    },
+    {
+      "title": "Cat-Ear Beanie - Pink small",
+      "url": "https://web-scraping.dev/product/24?variant=pink-small",
+      "description": "Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Stay warm, look cute, and let your playful side shine with our cat ear beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks",
+      "scores": {
+        "bm25_score": 1.0077453555853175,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.5357453555853176
+      },
+      "score": 1.536
+    },
+    {
+      "title": "Cat-Ear Beanie - Grey medium",
+      "url": "https://web-scraping.dev/product/12?variant=grey-medium",
+      "description": "Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks. Stay warm, look cute, and let your playful side shine with our cat ear beanie. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit",
+      "scores": {
+        "bm25_score": 1.0077453555853175,
+        "exact_match_score": 0,
+        "review_score": 0.528,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.5357453555853176
+      },
+      "score": 1.536
+    }
+  ]
+}
