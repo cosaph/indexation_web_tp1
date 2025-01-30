@@ -1,7 +1,6 @@
 # 🚀 Projet Crawler Web  
 
 
-
 ## 📌 Description  
 Ce projet implémente un **crawler web** en Python 🐍.  
 Le crawler télécharge des pages à partir d'une **URL de départ**, extrait les **liens internes**, et continue le processus jusqu'à un certain nombre d'URLs.  
